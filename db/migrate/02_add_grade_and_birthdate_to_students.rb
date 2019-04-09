@@ -1,3 +1,6 @@
-class Students::ActiveRecordMigration[5.1]
+class Students < ActiveRecord::Migration[5.1]
   
+  def change
+    
+  end 
 end 
